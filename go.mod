@@ -83,4 +83,4 @@ replace github.com/pion/ice/v2 => github.com/aler9/ice/v2 v2.0.0-20240608212222-
 
 replace github.com/pion/webrtc/v3 => github.com/aler9/webrtc/v3 v3.0.0-20240610104456-eaec24056d06
 
-replace github.com/bluenviron/mediacommon => github.com/aankur/mediacommon v0.0.0-20240821182418-5fe5bef6136f
+replace github.com/bluenviron/mediacommon => github.com/aankur/mediacommon v0.0.0-20241002052804-5048a3f17a80
